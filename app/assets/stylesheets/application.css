@@ -12,3 +12,7 @@
  *= require_self
  *= require_tree .
  */
+
+a.btn:visited{
+	color:#fff;
+}
